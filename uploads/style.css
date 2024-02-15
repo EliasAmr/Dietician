@@ -1,0 +1,22 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fafafa;
+}
+/* for id*/
+
+#textpara{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+
+}
+/* for tag */
+h1, h2{
+    color: #3b31ca;
+}
+/* for class */
+
+.header{
+    color: #c2c2c2;
+}
+
