@@ -1,6 +1,6 @@
 <?php
 session_start();
-$mysqli=new mysqli("localhost","root","Sms_f4U.123","SANDRA");
+$mysqli=new mysqli("localhost","root","S*******","SANDRA");
 $user_login=$_POST;
 $username=$user_login['username'];
 var_dump($username);
